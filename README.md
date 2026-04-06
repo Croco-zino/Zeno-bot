@@ -1,7 +1,7 @@
 <h1 align="center">🚀 ZENO-MD 🚀</h1>
 
 <p align="center">
-  <img src="https://images.alphacoders.com/133/thumbbig-1336189.webp" width="200"/>
+  <img src="https://images.alphacoders.com/133/thumbbig-1336189.webp" width="500"/>
 </p>
 
 <p align="center">
