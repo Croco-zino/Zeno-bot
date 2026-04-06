@@ -48,3 +48,11 @@ A powerful WhatsApp bot built using **Baileys**, packed with advanced features, 
 ```bash
 1. apt update & apt upgrade & pkg install nodejs yarn -y
 2. npm install
+```
+
+---
+
+## 🦂 Information
+
+- made by  : CROCO
+- whatsapp : +201031792409
