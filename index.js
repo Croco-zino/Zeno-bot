@@ -412,7 +412,6 @@ async function startBot() {
       handleConnectionUpdate(update, conn, startBot)
     })
     conn.ev.on("messages.upsert", async ({ messages, type }) => {
-    console.log('UPSERT TYPE:', type)
     if (!currentHandler) return
     for (let msg of messages) {
         if (!msg.message) continue
