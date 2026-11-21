@@ -86,7 +86,7 @@ async function getMediaBuffer(msg) {
 
         if (!media) return null
 
-        const { downloadContentFromMessage } = await import('@rexxhayanasi/elaina-baileys')
+        const { downloadContentFromMessage } = await import('baileys')
 
         const stream = await downloadContentFromMessage(
             media,
