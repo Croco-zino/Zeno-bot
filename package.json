@@ -19,6 +19,7 @@
     "cfonts": "^3.3.1",
     "chalk": "^5.6.2",
     "cheerio": "^1.1.2",
+    "cro-mb-lib": "^1.0.0",
     "crypto": "^1.0.1",
     "cycletls": "^2.0.5",
     "delay": "^7.0.0",
